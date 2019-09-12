@@ -1,2 +1,2 @@
 # Methods
-Some useful C++ library implementation 
+Some useful C++ api implementation 
